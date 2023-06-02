@@ -14,6 +14,7 @@ Description of the data
 The dataset gym_churn_us is provided by Model Fitness. It is containing data on churn for a given month and information on the month preceding it.
 
 'Churn' — the fact of churn for the month in question
+
 Current dataset fields:
 
 User data for the preceding month:
