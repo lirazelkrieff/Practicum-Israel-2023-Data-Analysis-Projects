@@ -5,27 +5,31 @@ The objective of this A/B test was to measure improvements in user conversion wi
 
 Our project's objective is to ensure the test was properly executed, analyze the results thoroughly, and provide valuable recommendations for future tests.
 
-Description of the data
+Description of the data:
+
 Structure of ab_project_marketing_events_us.csv:
 
-name — the name of the marketing event
-regions — regions where the ad campaign will be held
-start_dt — campaign start date
-finish_dt — campaign end date
+- name — the name of the marketing event
+- regions — regions where the ad campaign will be held
+- start_dt — campaign start date
+-finish_dt — campaign end date
+
 Structure of final_ab_new_users_upd.csv:
 
-user_id
-first_date — sign-up date
-region
-device — device used to sign up
+- user_id
+- first_date — sign-up date
+- region
+- device — device used to sign up
+
 Structure of final_ab_events_upd.csv:
 
-user_id
-event_dt — event date and time
-event_name — event type name
-details — additional data on the event (for instance, the order total in USD for purchase events)
+- user_id
+- event_dt — event date and time
+- event_name — event type name
+- details — additional data on the event (for instance, the order total in USD for purchase events)
+
 Structure of final_ab_participants_upd.csv:
 
-user_id
-ab_test — test name
-group — the test group the user belonged to
+- user_id
+- ab_test — test name
+- group — the test group the user belonged to
