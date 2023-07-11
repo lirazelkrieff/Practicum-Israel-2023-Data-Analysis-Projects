@@ -24,3 +24,6 @@ The table ecommerce_dataset_us.csv contains the following columns:
 - UnitPrice — price per item
 
 - CustomerID
+
+
+Link to Tableau dashboard: https://public.tableau.com/app/profile/liraz.elkrieff/viz/ProductRangeAnalysis_16883890346720/Dashboard1
