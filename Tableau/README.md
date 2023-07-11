@@ -25,3 +25,5 @@ Data sources for the dashboard: an aggregate table called trending_by_time.
 - trending_date — date and time
 - category_title — the video category
 - videos_count — the number of videos in the trending section
+
+Link to Tableau Dashboard: https://public.tableau.com/views/TrendingVideosAnalysisbyCountryandCategory-Practicum/Dashboard1
